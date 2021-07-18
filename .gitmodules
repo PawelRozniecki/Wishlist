@@ -1,0 +1,6 @@
+[submodule "Wishlist-Frontend"]
+	path = Wishlist-Frontend
+	url = https://github.com/PawelRozniecki/Wishlist-Frontend
+[submodule "Wishlist-Backend"]
+	path = Wishlist-Backend
+	url = https://github.com/PawelRozniecki/Wishlist-Backend
